@@ -1,0 +1,40 @@
+_repo: De-Ongelikte-Beer_25319
+_version: 0.1.0
+alternative_title: The abysmal brute. Dutch
+contributor:
+  translator:
+    agent_name: Gogh-Kaulbach, Anna van
+    aliases:
+    - Kaulbach, Anna Maria
+    - Van Gogh-Kaulbach, Anna
+    birthdate: 1869
+    deathdate: 1960
+    gutenberg_agent_id: '31240'
+    url: http://www.gutenberg.org/2009/agents/31240
+covers:
+- cover_type: archival
+  image_path: 25319-h/images/frontcover-image.jpg
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25319'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boxers (Sports) -- Fiction'
+- !lcsh 'Boxing stories'
+title: De Ongelikte Beer
+url: http://www.gutenberg.org/ebooks/25319
